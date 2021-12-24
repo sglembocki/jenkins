@@ -1,2 +1,5 @@
-<root>
-</root>
+<parent>
+  <groupId>org.jenkins-ci.plugins</groupId>
+  <artifactId>plugin</artifactId>
+  <version>1.445</version>
+</parent>
